@@ -2,10 +2,10 @@
 Review the following (fictional!) code for a nuclear vault door. 
 
 Identify potential safety or correctness issues.
-(the record is 5)
+(the record is 5)s
 
 The control mechanism of the lock of a vault for nuclear waste
-has been designed for safe operation. It makes sure that it is
+has been designed for safe operation. It makes sure that it is 
 only possible to access the vault, if the radiation shields
 are in place or the radiation level in the vault is below a 
 threshold (DANGER_LEVEL). That means:
